@@ -3,4 +3,6 @@ This is an open source, multi-threaded website crawler written in Python utilizi
 
 Specify the website that needs to be crawled in the main.py.
 
+***
+
 The analytics, data harvesting, and search algorithms are being developed.
